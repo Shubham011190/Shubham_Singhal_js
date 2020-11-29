@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+
+    /* Font/text values */
+    --unnamed-font-family-rubik-regular: Rubik-Regular;
+    --unnamed-font-family-rubik-light: Rubik-Light;
+    --unnamed-font-family-rubik-medium: Rubik-Medium;
+    --unnamed-font-style-normal: normal;
+    --unnamed-font-weight-normal: normal;
+    --unnamed-font-size-20: 20px;
+    --unnamed-font-size-25: 25px;
+    --unnamed-font-size-27: 27px;
+    --unnamed-font-size-28: 28px;
+    --unnamed-font-size-34: 34px;
+    --unnamed-font-size-48: 48px;
+    --unnamed-font-size-80: 80px;
+    --unnamed-font-size-21-600000381469727: 21.600000381469727px;
+    --unnamed-font-size-56-599998474121094: 56.599998474121094px;
+    --unnamed-font-size-46-599998474121094: 46.599998474121094px;
+    --unnamed-character-spacing-0: 0px;
+    --unnamed-character-spacing-2-02: 2.02px;
+    --unnamed-character-spacing--0-6: -0.6px;
+    --unnamed-character-spacing--1: -1px;
+    --unnamed-character-spacing-1-88: 1.88px;
+    --unnamed-line-spacing-22: 22px;
+    --unnamed-line-spacing-24: 24px;
+    --unnamed-line-spacing-25: 25px;
+    --unnamed-line-spacing-29: 29px;
+    --unnamed-line-spacing-32: 32px;
+    --unnamed-line-spacing-39: 39px;
+    --unnamed-line-spacing-57: 57px;
+    --unnamed-line-spacing-95: 95px;
+    --unnamed-text-transform-uppercase: uppercase;
+    }
+    
+    /* Character Styles */
+    .unnamed-character-style-1 {
+    font-family: var(--unnamed-font-family-rubik-regular);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-22);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    }
+    .unnamed-character-style-2 {
+    font-family: var(--unnamed-font-family-rubik-regular);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-22);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-b0bac9);
+    }
+    .unnamed-character-style-3 {
+    font-family: var(--unnamed-font-family-rubik-regular);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-22);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-8798ad);
+    }
+    .unnamed-character-style-4 {
+    font-family: var(--unnamed-font-family-rubik-regular);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-22);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-5 {
+    font-family: var(--unnamed-font-family-rubik-regular);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-21-600000381469727);
+    line-height: var(--unnamed-line-spacing-25);
+    letter-spacing: var(--unnamed-character-spacing-2-02);
+    color: var(--unnamed-color-8798ad);
+    text-transform: var(--unnamed-text-transform-uppercase);
+    }
+    .unnamed-character-style-6 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-28);
+    line-height: var(--unnamed-line-spacing-32);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-7 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-34);
+    line-height: var(--unnamed-line-spacing-32);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-8 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-48);
+    line-height: var(--unnamed-line-spacing-57);
+    letter-spacing: var(--unnamed-character-spacing--0-6);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-9 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-80);
+    line-height: var(--unnamed-line-spacing-95);
+    letter-spacing: var(--unnamed-character-spacing--1);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-10 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-56-599998474121094);
+    line-height: var(--unnamed-line-spacing-32);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-11 {
+    font-family: var(--unnamed-font-family-rubik-light);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-46-599998474121094);
+    line-height: var(--unnamed-line-spacing-32);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-12 {
+    font-family: var(--unnamed-font-family-rubik-medium);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-20);
+    line-height: var(--unnamed-line-spacing-24);
+    letter-spacing: var(--unnamed-character-spacing-1-88);
+    color: var(--unnamed-color-b0bac9);
+    text-transform: var(--unnamed-text-transform-uppercase);
+    }
+    .unnamed-character-style-13 {
+    font-family: var(--unnamed-font-family-rubik-medium);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-29);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-2e384d);
+    }
+    .unnamed-character-style-14 {
+    font-family: var(--unnamed-font-family-rubik-medium);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-27);
+    line-height: var(--unnamed-line-spacing-39);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    }
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+.container{
+    display: flex;
+width: 100%;
+height: 91px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+}
+
+#dashboard{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    top: 45.5%;
+left: 34.51px;
+/* width: 146px;
+height: 25px; */
+letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: left;
+letter-spacing: 2.02px;
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+}
+
+#pitchar{
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    top: 40.86%;
+    left: 191.97px;
+    right: 1567.9px;
+/* width: 94px;
+height: 33px; */
+font-size: large;
+text-align: left;
+font-weight: 500;
+letter-spacing: -0.7px;
+color: #2E384D;
+text-transform: lowercase;
+opacity: 1;
+}
+
+#studio{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    top: 40.22px;
+left: 276.73px;
+/* width: 73px;
+height: 29px; */
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+letter-spacing: 0px;
+color: #2E384D;
+opacity: 1;
+}
+#filename{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    top: 38.73px;
+left: 541.33px;
+/* width: 125px;
+height: 25px; */
+letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: left;
+/* letter-spacing: 2.02px; */
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+
+}
+
+#file_name{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    top: 35.75px;
+left: 643.63px;
+font-size: 18px;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+letter-spacing: 0px;
+color: #2E384D;
+opacity: 1;
+}
+#undo{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    top: 38.73px;
+left: 970.42px;
+width: 66px;
+height: 25px;
+letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: left;
+letter-spacing: 2.02px;
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+}
+
+#redo{
+    position: relative;
+    top: 38.73px;
+left: 1084.22px;
+width: 63px;
+height: 25px;
+letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: left;
+letter-spacing: 2.02px;
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+
+}
+#save{
+    position: relative;
+    top: 38.73px;
+left: 1176.26px;
+width: 60px;
+height: 25px;
+letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: left;
+letter-spacing: 2.02px;
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+
+}
+#sharebtn{
+    position: relative;
+    top: 16.38px;
+    left: 1220.62px;
+    color: white;
+width: 100.12px;
+height: 57.54px; 
+background: #2E5BFF 0% 0% no-repeat padding-box;
+border-radius: 4px;
+border: none;
+font-size: 16px;
+text-transform: uppercase;
+font-weight: lighter;
+opacity: 1;
+}
