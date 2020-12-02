@@ -18,3 +18,16 @@ ul{
     flex-direction: column;
     justify-content: space-evenly;
 }
+li{
+    letter-spacing: var(--unnamed-character-spacing-2-02);
+text-align: center;
+letter-spacing: 2.02px;
+color: #8798AD;
+text-transform: uppercase;
+opacity: 1;
+font-size: small;
+}
+#li_image{
+    border-left: 5px solid #2E5BFF;
+    background: red;
+}
