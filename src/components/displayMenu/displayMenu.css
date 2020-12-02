@@ -28,7 +28,7 @@ opacity: 1;
 
 #inputText{
     position: relative;
-    top: 87.2px;
+    top: 62px;
 left: 0px;
 margin: auto;
 width: 279.2px;
@@ -41,8 +41,8 @@ outline: none;
 
 #unsplashtxt{
     position: relative;
-    top: 186px;
-left: 192px;
+    top: 100px;
+left: 20px;
 width: 399px;
 height: 18.6px;
 text-align: left;
